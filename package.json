@@ -1,8 +1,10 @@
 {
-  "name": "new",
+  "name": "simple-react",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "init"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "lodash": "4.17.15",
